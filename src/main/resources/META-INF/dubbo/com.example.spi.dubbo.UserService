@@ -1,0 +1,2 @@
+user1=com.example.spi.dubbo.impl.UserServiceImpl1
+user2=com.example.spi.dubbo.impl.UserServiceImpl2

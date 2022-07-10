@@ -1,0 +1,1 @@
+com.example.spi.spring.UserService = com.example.spi.spring.impl.UserServiceImpl1, com.example.spi.spring.impl.UserServiceImpl2
