@@ -1,2 +1,4 @@
-user1=com.example.spi.dubbo.impl.UserServiceImpl1
-user2=com.example.spi.dubbo.impl.UserServiceImpl2
+UserServiceImpl1=com.example.spi.dubbo.impl.UserServiceImpl1
+UserServiceImpl2=com.example.spi.dubbo.impl.UserServiceImpl2
+com.example.spi.dubbo.AOP.UserWrapper
+
